@@ -1,3 +1,3 @@
 # RUST_SANDBOX
 
-learning
+learning Rust 
