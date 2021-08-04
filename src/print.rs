@@ -16,6 +16,9 @@ name = "Sally", activity = "piano");
 //placeholder traits
 println!("Binary: {:b} Hex: {:x} Octal: {:o}", 10, 10, 10 );
 
-// Placeholder for debug trait
+// Placeholder for debug trait tuple
 println!("{:?}", (12, true, "hello"));
+
+
+
 }
