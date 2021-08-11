@@ -19,6 +19,7 @@ println!("Binary: {:b} Hex: {:x} Octal: {:o}", 10, 10, 10 );
 // Placeholder for debug trait tuple
 println!("{:?}", (12, true, "hello"));
 
-
+// Basic math
+println!("10 + 10 = {}", 10 + 10);
 
 }
