@@ -14,9 +14,14 @@ Arrays
 
 pub fn run(){
 
-    // default is "i32"
+    // default is "i32" int
 let x = 1;
-// default is "f64"
+// default is "f64"  float
 let y = 2.5;
+// Add explicit type
+let y: i64 = 890809898889948;
+// Find max size 
+println!("Max i32: {}", std::i32::MAX);
+println!("Max i64: {}", std::i64::MAX);
 
 }
